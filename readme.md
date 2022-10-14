@@ -13,3 +13,8 @@ Then we need to commit the changes
 git add
 git commit
 ~~~
+
+Add remote repository
+~~~bash
+git remote add origin
+https://github.com/MarianaMendozaAn/Git.git
